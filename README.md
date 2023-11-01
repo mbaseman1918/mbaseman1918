@@ -13,7 +13,7 @@ I'm a passionate and detail-oriented Software Engineer based in Portland, OR. Wi
 - 💰 Viceroy Trading: Built a cryptocurrency trading simulator, connecting APIs and implementing features for portfolio management.
 
 ## Experience
-- Galvanize: Software Engineer reviewing and debugging code for students learning Javascript, Node.js,HTML, CSS, Express, React, PostgreSQL, and MongoDB
+- Galvanize: Software Engineer reviewing and debugging code for students learning Javascript, Node.js, HTML, CSS, Express, React, PostgreSQL, and MongoDB
 - Amazon: Pathways Operations Manager overseeing shift operations, optimizing workflows, and achieving cost savings.
 - United States Army: Operations Officer coordinating emergency response missions and supporting top government officials.
 
